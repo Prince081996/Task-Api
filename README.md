@@ -30,7 +30,7 @@
         note: DATETIME should be in format 09/19/18 13:55:00
 
         FOR EXAMPLE:
-        GET localhost:8000/test?dat=09/19/18 13:55:00&URL=https://www.google.com
+        GET localhost:8000/test?DATETIME=09/19/18 13:55:00&URL=https://www.google.com
 
         Response Type - HTTP Response 
         Success response - 'Yes , it worked'
